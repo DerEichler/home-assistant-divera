@@ -93,7 +93,6 @@ async def async_setup_entry(
                     ),  # noqa: B023
                     attribute_fn=lambda divera,
                     vid=vehicle_id: divera.get_vehicle_attributes(vid),  # noqa: B023
-                    entity_registry_enabled_default=False,
                 ),
             )
             entities.append(vehicle_entity)
