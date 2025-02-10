@@ -1,6 +1,6 @@
 
 [tool.pylint.MAIN]
-py-version = "3.12"
+py-version = "3.13"
 ignore = [
     "tests",
 ]
