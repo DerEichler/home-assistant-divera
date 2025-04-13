@@ -3,5 +3,5 @@ ruff==0.11.5
 pip>=25,<26
 black==25.1.0
 pre-commit==4.2.0
-pytest-homeassistant-custom-component==0.13.233
+pytest-homeassistant-custom-component==0.13.234
 pytest-cov==6.1.1
