@@ -4,4 +4,4 @@ pip>=25,<26
 black==25.1.0
 pre-commit==4.3.0
 pytest-homeassistant-custom-component==0.13.278
-pytest-cov==6.2.1
+pytest-cov==6.3.0
